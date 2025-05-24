@@ -1,0 +1,44 @@
+html {
+    text-align: center;
+    font-family: Roboto;
+}
+
+body {
+    margin: 0px;
+}
+
+header {
+    background-color: black;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+ul {
+    list-style: none;
+}
+
+.navButton {
+    line-height: auto;
+    padding-right: 50px;
+}
+
+.navButton-anchor {
+    color: white;
+    text-decoration: none;
+}
+
+a {
+    transition: 0.1s;
+}
+
+a:hover {
+    border-bottom: solid 3px;
+    font-size: 20px;
+}
