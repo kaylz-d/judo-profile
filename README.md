@@ -1,3 +1,3 @@
 # judo-profile
 
-A site to analyze my judo performance & statistics
+idk when i'm ever gonna work on this
