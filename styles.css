@@ -12,6 +12,7 @@ header {
     color: white;
     margin: 0px;
     padding: 0px;
+    max-height: 50px;
 }
 
 .flex-container {
